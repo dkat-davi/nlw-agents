@@ -38,9 +38,9 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 
 # Create question
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/3348ffe3-f251-41ed-acdf-0b6608513ecb/questions
 Content-Type: application/json
 
 {
-    "question": "Esta é uma question de teste?"
+    "question": "Oq são embeddings?"
 }

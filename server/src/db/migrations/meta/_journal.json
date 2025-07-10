@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1751982928467,
-      "tag": "0000_worried_sentinel",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1752014365491,
-      "tag": "0001_majestic_marvel_zombies",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1752016683316,
-      "tag": "0002_noisy_smasher",
+      "when": 1752153429189,
+      "tag": "0000_sturdy_korvac",
       "breakpoints": true
     }
   ]
